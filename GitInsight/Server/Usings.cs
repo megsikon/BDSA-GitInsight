@@ -1,0 +1,11 @@
+﻿global using LibGit2Sharp;
+global using Microsoft.EntityFrameworkCore;
+global using Microsoft.AspNetCore.Components;
+global using Microsoft.AspNetCore.Components.Web;
+global using Microsoft.AspNetCore.ResponseCompression;
+global using Microsoft.EntityFrameworkCore;
+global using Microsoft.Identity.Web;
+global using Repo;
+global using Server;
+global using Server.Controllers;
+global using Server.Data;
